@@ -27,10 +27,6 @@ Este es un dashboard de ejemplo construido en Power BI para analizar campañas d
 - Íconos descargados de [Flaticon](https://www.flaticon.com/)
 - Dataset ficticio simulado para fines educativos
 
-## ✨ Próximos pasos
-
-Este es el primero de tres dashboards que estoy desarrollando como parte de mi portafolio de analista de datos. Próximamente incluiré un análisis detallado de campañas publicitarias reales con storytelling avanzado y tooltips personalizados.
-
 ---
 
 © 2025 Ritshu Crispin
