@@ -19,7 +19,7 @@ Este es un dashboard de ejemplo construido en Power BI para analizar campañas d
 
 ## 📎 Captura del dashboard
 
-![Dashboard Preview](.marketingcampaigns.png)
+![Dashboard Preview](./marketingcampaigns.png)
 
 ## 🛠️ Herramientas usadas
 
